@@ -1,0 +1,15 @@
+,meaning
+film_code,Id phim
+cinema_code,Id rạp
+total_sales,Tổng doanh thu của lần chiếu
+tickets_sold,Số lượng vé bán ra
+tickets_out,Số lượng vé bị hủy
+show_time,Thời gian chiếu phim (Suất chiếu)
+occu_perc,Tỷ lệ sử dụng ghế trong rạp chiếu phim dựa trên sức chứa có sẵn
+ticket_price,Giá vé tại thời điểm chiếu phim
+ticket_use,Tổng số vé được sử dụng
+capacity,Sức chứa của rạp chiếu phim
+date,Ngày chiếu
+month,Tháng chiếu
+quarter,Quý chiếu
+day,Ngày chiếu
